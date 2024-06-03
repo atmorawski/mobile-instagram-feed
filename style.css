@@ -349,11 +349,10 @@ color: #4d4d4f;
 }
 
 .message {
-font-weight: 400;
+font-weight: 500;
 margin-top: 5px;
-font-size: 14px;
+font-size: 28px;
 color: #777;
-line-height: 1.5em;
 }
 
 .message b {
