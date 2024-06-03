@@ -142,10 +142,10 @@ overflow: auto;
 display: inline-block;
 border-radius: 50%;
 overflow: auto;
-width: 70px;
-height: 70px;
-min-width: 70px;
-min-height: 70px;
+width: 90px;
+height: 90px;
+min-width: 90px;
+min-height: 90px;
 background: linear-gradient(to right, red, orange);
 padding: 2px;
 margin-left: 15px;
@@ -301,7 +301,7 @@ object-fit: cover;
 
 .col-9 .card .top .userDetails h3 {
 /* width: 100%; */
-font-size: 16px;
+font-size: 32px;
 color: #4d4d4f;
 font-weight: 500;
 line-height: 1em;
